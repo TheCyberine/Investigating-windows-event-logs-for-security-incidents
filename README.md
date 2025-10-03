@@ -1,0 +1,2 @@
+# Investigating-windows-event-logs-for-security-incidents
+Windows Event Logs are a crucial source of information for identifying and investigating security incidents. This project will guide us through the process of analyzing Windows Event Logs to detect potential security threats. We will learn how to access, interpret, and utilize these logs to identify suspicious activities and mitigate risks.
